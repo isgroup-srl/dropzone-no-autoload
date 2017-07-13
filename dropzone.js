@@ -1,4 +1,14 @@
 /*
+ * dropzone-no-autoload
+ * 
+ * Version 0.1
+ * 
+ * https://github.com/isgroup-srl/dropzone-no-autoload
+ * A fork of https://github.com/enyo/dropzone that works with Jquery3
+ * 
+ */
+
+/*
  *
  * More info at [www.dropzonejs.com](http://www.dropzonejs.com)
  *
