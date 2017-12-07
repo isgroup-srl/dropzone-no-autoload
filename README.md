@@ -1,5 +1,5 @@
 # dropzone-no-autoload
-A fork of https://github.com/enyo/dropzone that works with Jquery3
+A fork of https://github.com/enyo/dropzone that works with jQuery3
 
 ## Usage
 You can only instance Dropzone programmatically, see the example below.
